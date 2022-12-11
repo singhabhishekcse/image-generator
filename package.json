@@ -1,0 +1,19 @@
+{
+  "name": "image-generator",
+  "version": "1.0.0",
+  "description": "this project use for generate image on basics of input.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "openAi"
+  ],
+  "author": "mranoint",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
